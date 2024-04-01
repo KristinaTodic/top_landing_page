@@ -1,0 +1,28 @@
+body {
+    font-family: Roboto, sans-serif;
+}
+a {
+    text-decoration: none;
+    color: inherit;
+}
+ul {
+    list-style-type: none;
+    padding:0;
+    display: flex;
+    gap: 16px;
+    justify-content: flex-end;
+  }
+.header {
+    display:flex;
+    background-color: #1f2937;
+    justify-content: space-between;
+    padding: 16px;
+}
+.logo-text {
+    font-size: 24px;
+    color: #f9faf8;
+}
+.header-text {
+     font-size: 18px;
+     color: #E5E7Eb;
+}
